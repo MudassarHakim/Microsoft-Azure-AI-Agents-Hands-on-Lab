@@ -1,6 +1,7 @@
 # Hands-On Labs for AI Agents Using Azure AI Agent Service SDK and Semantic Kernel
 
 This repo contains hands-on labs for building AI Agents using the Azure AI Agent Service SDK and Semantic Kernel. The Azure AI Agent Service is used to create AI agents and Semantic Kernel is used to orchestrate the agents in a multi-agent system. 
+https://experience.cloudlabs.ai/#/odl/labguide/cdcb59ea-84df-45ce-8c80-c774457e05c8/283849d7-4e38-4e06-98ad-0879e4054ee2/0/5?intId=362B4232333255474D4A337274517841334A7A6D56513D3D
 
 ## Prerequisites
 **Microsoft will provide the lab environment with all the prerequisites**
